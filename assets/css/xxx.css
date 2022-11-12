@@ -1,0 +1,49 @@
+
+body {
+  padding-top: 56px;
+  
+  
+
+  
+}
+
+#log{
+  margin: top 30px;
+}
+
+#imagee{
+width: 700 ;
+height: 400;
+
+}
+#firas{
+
+  color: #fff;
+
+  background-image: url('https://live.staticflickr.com/65535/50904571996_322f26f61a_c.jpg');
+  height:400px;
+  background-repeat: no-repeat;
+  background-size:cover;
+
+
+}
+
+
+.xxx{
+  font-size:120px;
+  font-family: 'Scheherazade', serif;
+   line-height:60px;
+   padding-top:120px;
+}
+
+.lead{
+
+  font-size:35px;
+  font-weight:bold;
+  
+
+}
+
+
+
+
